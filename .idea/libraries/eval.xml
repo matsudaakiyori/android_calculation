@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="eval">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/libs/eval.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
